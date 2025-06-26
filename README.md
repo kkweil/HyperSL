@@ -9,6 +9,12 @@ You can download the pretrained weights from Baidu Netdisk:
 * **Link**: [https://pan.baidu.com/s/11uuzhKs-dtFExlnph1IYTQ](https://pan.baidu.com/s/11uuzhKs-dtFExlnph1IYTQ?pwd=27mh)
 * **Extraction Code**: `27mh`
 
+You can download the training dataset from Baidu Netdisk:
+* **Link**: [https://pan.baidu.com/s/1YP_OMkAf4LytjyowQBq9JQ](https://pan.baidu.com/s/1YP_OMkAf4LytjyowQBq9JQ?pwd=tw7g)
+* **Extraction Code**: `tw7g`
+
+
+
 ## 📖 Citation
 
 If you find our work useful in your research, please consider citing:
