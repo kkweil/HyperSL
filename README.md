@@ -13,6 +13,8 @@ You can download the training dataset from Baidu Netdisk:
 * **Link**: [https://pan.baidu.com/s/1YP_OMkAf4LytjyowQBq9JQ](https://pan.baidu.com/s/1YP_OMkAf4LytjyowQBq9JQ?pwd=tw7g)
 * **Extraction Code**: `tw7g`
 
+You can also accsess the training dataset and pretrained weights from Huggingface:
+* **Link**: [https://pan.baidu.com/s/1YP_OMkAf4LytjyowQBq9JQ](https://pan.baidu.com/s/1YP_OMkAf4LytjyowQBq9JQ?pwd=tw7g)
 
 
 ## 📖 Citation
